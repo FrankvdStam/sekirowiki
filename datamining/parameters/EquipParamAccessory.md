@@ -1,0 +1,14 @@
+---
+title: EquipParamAccessory
+description: 
+published: true
+date: 2025-03-08T11:21:42.622Z
+tags: 
+editor: markdown
+dateCreated: 2025-03-08T11:21:42.622Z
+---
+
+# EquipParamAccessory
+|ID|Name|refId|sfxVariationId|weight|behaviorId|basicPrice|sellValue|sortId|qwcId|equipModelId|iconId|shopLv|trophySGradeId|trophySeqId|equipModelCategory|equipModelGender|accessoryCategory|refCategory|spEffectCategory|pad|vagrantItemLotId|vagrantBonusEneDropItemLotId|vagrantItemEneDropItemLotId|isDeposit|isEquipOutBrake|disableMultiDropShare|isDiscard|isDrop|isNoticeLog|isNoticeDialog|pad3|pad2             |saleValue|accessoryGroup|vowType|compTrophySedId|residentSpEffectId1|residentSpEffectId2|residentSpEffectId3|residentSpEffectId4|firstGetEventFlagId|itemUIDisplayType|pad1             |
+|-|-|-|-|-|-|-|-|--|-|-|-|--|--|--|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-----------------|-|-|-|--|-|-|-|-|-|-|-----------------|
+|0| |0|0|0|0|0|0|-1|0|0|0|-1|-1|-1|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|[0&#124;0&#124;0]|0|0|0|-1|0|0|0|0|0|0|[0&#124;0&#124;0]|
