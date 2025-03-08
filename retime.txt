@@ -1,0 +1,11 @@
+Initial retime (by me)
+First mouse movement at 0.280
+first keyboard input at 0.440 
+12.130 menu entered
+12.550 save quit
+14.160 gained control again
+Lever flicked at 32.210
+
+
+32.210 - 0.440 - 1.410
+
