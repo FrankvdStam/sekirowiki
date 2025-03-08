@@ -2,7 +2,7 @@
 title: parameters
 description: 
 published: true
-date: 2025-03-08T12:21:11.269Z
+date: 2025-03-08T12:21:19.386Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-08T12:10:47.122Z
