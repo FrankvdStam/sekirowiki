@@ -1,0 +1,2 @@
+# sekirowiki
+sekiro wiki
