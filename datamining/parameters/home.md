@@ -1,8 +1,8 @@
 ---
-title: parameters
-description: 
+title: home
+description: starting point for game parameters
 published: true
-date: 2025-03-08T12:21:19.386Z
+date: 2025-03-08T12:26:19.432Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-08T12:10:47.122Z
