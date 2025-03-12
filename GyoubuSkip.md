@@ -2,7 +2,7 @@
 title: Gyoubu Skip
 description: Gyoubu Skip
 published: true
-date: 2025-03-08T10:57:49.348Z
+date: 2025-03-12T18:17:06.834Z
 tags: skips
 editor: markdown
 dateCreated: 2025-03-07T11:35:15.669Z
@@ -23,11 +23,15 @@ This is a lesser known version that is used in some NG+ runs. You use On-Demand 
 In February 2025, SaraToga figured out that you can cancel the mid-air block animation early with a ledge grab. Prior to this, we would simply cancel the Mist Raven fall animation by blocking and then wait to be able to wall jump. Because The height you get from using Mist Raven vertically varies seemingly randomly, the skip would only work if you got a tall Mist Raven height. With a short height, you would lose too much height before being able to walljump.
 
 ## Firecrackers Stagger Into Headstomp Version
-This is the earliest documented version of the skip. [retime.txt](/retime.txt)
+This is the earliest documented version of the skip.
+
+
+
+## test
+[retime.txt](/retime.txt)
 [asd.txt](/asd.txt)
 
 
-![abstract-3d-cube-5-4k.jpg](/abstract-3d-cube-5-4k.jpg)
 
 <a href="asd.txt" download>Click to Download</a>
 
